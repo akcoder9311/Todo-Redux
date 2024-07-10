@@ -12,10 +12,8 @@ Delete tasks
 To get started with this project, follow these steps:
 
 ### Clone the repository:
-```
 [(git clone https://github.com/yourusername/todo-list-app.git)]
 cd todo-list-app
-```
 
 Install dependencies:
 ```
