@@ -17,8 +17,8 @@ To get started with this project, follow these steps:
 cd todo-list-app
 ```
 
-```
 Install dependencies:
+```
 npm install
 ```
 
